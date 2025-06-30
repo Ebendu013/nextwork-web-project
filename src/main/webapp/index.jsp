@@ -2,11 +2,7 @@
 
 <body>
 
-<<<<<<< HEAD
 <h2>Hello Benny!</h2>
-=======
-<h2>Hello BENNY!</h2>
->>>>>>> 5bba579588507231306277fe4d28f7ec3f8096ed
 
 <p>This is my NextWork web application working!</p>
 
