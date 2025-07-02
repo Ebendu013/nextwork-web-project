@@ -10,7 +10,9 @@
 
 <p>Didn't get auto deploy after previous push</p>
 
-<p>If you see this line, that means your latest changes are automatically deployed into production by CodePipeline!</p>
+<p>I had to restablish Connection in AWS</p>
+
+<p>Now!!!, if you see this line, that means your latest changes are automatically deployed into production by CodePipeline!</p>
 
 
 </body>
