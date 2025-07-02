@@ -8,9 +8,7 @@
 
 <p>If you see this line in Github, that means your latest changes are getting pushed to your cloud repo :o</p>
 
-<p>Didn't get auto deploy after previous push</p>
-
-<p>I had to restablish Connection in AWS</p>
+<p>Finally resolved all issues</p>
 
 <p>Now!!!, if you see this line, that means your latest changes are automatically deployed into production by CodePipeline!</p>
 
